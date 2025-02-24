@@ -30,4 +30,4 @@ La aplicación permite al usuario agregar nombres mediante un campo de texto y u
 - Las contribuciones son bienvenidas. Si tienes alguna sugerencia o deseas mejorar la aplicación, por favor abre un pull request o crea un issue.
 
 ## Licencia
-- Este proyecto está bajo la **Licencia MIT** - consulta el archivo LICENSE para más detalles.
+- Este proyecto está bajo la **Licencia MIT** - consulta el archivo [LICENSE](https://github.com/RA-CV/Desafio-Amigo-Secreto/blob/main/LICENSE) para más detalles.
