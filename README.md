@@ -21,8 +21,8 @@ La aplicación permite al usuario agregar nombres mediante un campo de texto y u
 - 3️⃣  Una vez que hayas agregado todos los nombres, haz clic en el botón **Sortear Amigo** para seleccionar aleatoriamente a un "amigo secreto".
 - 4️⃣ El nombre seleccionado se mostrará en pantalla como el ganador del sorteo.
 
-**📸 Ejemplo:**
-![Ejemplos de uso de AmigoSecreto](challenge-amigo-secreto_esp-main/assets/Captura de pantalla 2025-02-25 205739.png)
+**📸 Ejemplos:**
+![Ejemplos de uso de AmigoSecreto](challenge-amigo-secreto_esp-main/assets/)
 
 
 ## 🛠️ Tecnologías Usadas
